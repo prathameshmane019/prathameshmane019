@@ -3,11 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshmane019&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshmane019" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prathamesh12633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh12633" height="30" width="40" /></a>
-<a href="https://instagram.com/its_prathamesh__96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_prathamesh__96k" height="30" width="40" /></a>
-</p>
+
+<div align="center"> 
+  <a href="mailto:maneprathamesh019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/prathamesh-mane-2308a5241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/prathamesh12633">
+     <img src="https://img.shields.io/badge/Twitter-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -20,9 +27,12 @@
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=prathameshmane019&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <br/>
-  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathameshmane019&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmane019&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
