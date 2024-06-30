@@ -35,10 +35,7 @@
 <img width=390 height=500 src="https://github-readme-stats.vercel.app/api?username=prathameshmane019&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <br/>
-
-### 🔝 Top Contributed Repo
-<img width=390 height=500 href="https://github-contributor-stats.vercel.app/api?username=prathameshmane019&limit=5&theme=react&combine_all_yearly_contributions=true" >
-
-  <img width=390 height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmane019&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=390 height=500 href="https://github-contributor-stats.vercel.app/api?username=prathameshmane019&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution">
+<img width=390 height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmane019&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
