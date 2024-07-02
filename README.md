@@ -25,7 +25,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools : </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,vscode,github,angular,spring,git,arduino,docker,redux" />
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,redis,c,java,postgres,linux,matlab,nginx,postman" />
