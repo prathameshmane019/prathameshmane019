@@ -44,11 +44,11 @@
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind,redux,materialui" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,typescript,nestjs,androidstudio,kotlin" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,supabase,mysql,graphql" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux,postman,vscode,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=c,matlab,arduino,figma,vercel,netlify,jest" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind,redux,materialui,shadcn" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,typescript," /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,gitlab,linux,postman,vscode,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=c,matlab,arduino,figma,vercel" />
 </div>
 
 ### 📱 Mobile Development
