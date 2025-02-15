@@ -66,7 +66,7 @@
      Frontend: Next.js, React.js, Tailwind CSS
      Backend: Node.js, Express.js
      Database: MongoDB
-     Mobile: React Native, Firebase
+     Mobile: React Native 
      Deployment: Vercel, AWS
      ```
    - ✨ **Key Features:**
