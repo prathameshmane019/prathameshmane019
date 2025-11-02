@@ -8,11 +8,11 @@
   </a>
 </div>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
   Founder @UnityTech Solutions | B.Tech Student
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
-</h3>
+</h3> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prathameshmane019&style=for-the-badge&color=0e75b6" alt="Profile Views" />
