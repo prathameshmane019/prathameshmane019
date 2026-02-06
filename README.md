@@ -30,8 +30,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Electronics and Telecommunication (2025) with **9.48 CGPA**
-- 💼 Founder of **UnityTech Solutions**
+- 🎓 B.Tech in Electronics and Telecommunication (2025) with **9.5 CGPA** 
 - 🌟 Former Full Stack Web Development Intern at **LeadSoft IT Solutions**
 - 🏆 Runner-up at **Hackathon 2k23** at SKNSCOE
 - 🌱 Currently mastering **Java Full Stack and DevOps**
